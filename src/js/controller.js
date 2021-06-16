@@ -130,7 +130,7 @@ const init = function() {
     searchView.addSearchHandler(controlSearchResults);
     paginationView.addHandlerClick(controlPagination);
     addRecipeView.addHandlerUpload(controlAddRecipe);
-    console.log('Welcome');
+    console.log('Welcome to our first semi pro app');
 };
 
 init();
